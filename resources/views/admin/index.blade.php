@@ -52,7 +52,7 @@
                                 <i class="text-danger mr-0 font-size-24 mdi mdi-phone-incoming"></i>
                             </div>
                             <div>
-                                <p class="text-mute mt-20 mb-0 font-size-16">Inbound Call</p>
+                                <p class="text-mute mt-20 mb-0 font-size-16">Inbound Call2</p>
                                 <h3 class="text-white mb-0 font-weight-500">1,460 <small class="text-danger"><i class="fa fa-caret-up"></i> -1.5%</small></h3>
                             </div>
                         </div>
